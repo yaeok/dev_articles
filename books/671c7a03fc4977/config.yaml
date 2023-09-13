@@ -1,4 +1,4 @@
-title: "【Next.js×Firebase】リアルタイムChatアプリの実装"
+title: '【Next.js×Firebase】リアルタイムChatアプリの実装'
 summary: |-
   これからNext.jsを学習したい、開発してみたいという人向けです。
   Firebase AuthenticationとFirestore、Recoil、chakra-uiを使用した開発です。
@@ -6,32 +6,33 @@ summary: |-
 
   この1冊でNext.jsを使ったwebアプリの実装から公開までを学ぶことができます。
 topics:
-  - "firebase"
-  - "nextjs"
-  - "vercel"
-  - "recoil"
-  - "chakraui"
+  - 'firebase'
+  - 'nextjs'
+  - 'vercel'
+  - 'recoil'
+  - 'chakraui'
 published: false
+allow_override: true
 price: 200
 toc_depth: 1
 chapters:
-  - "fe697a"
-  - "d424fb"
-  - "7b42f2"
-  - "9aa279"
-  - "0f878e"
-  - "e72de4"
-  - "f500c3"
-  - "fabd2a"
-  - "2cdbcf"
-  - "2012b5"
-  - "00bf1c"
-  - "50dcd8"
-  - "561890"
-  - "e7a90c"
-  - "ff2101"
-  - "fb7d51"
-  - "3b347e"
-  - "adb561"
-  - "bbc0c6"
-  - "f851c8"
+  - 'fe697a'
+  - 'd424fb'
+  - '7b42f2'
+  - '9aa279'
+  - '0f878e'
+  - 'e72de4'
+  - 'f500c3'
+  - 'fabd2a'
+  - '2cdbcf'
+  - '2012b5'
+  - '00bf1c'
+  - '50dcd8'
+  - '561890'
+  - 'e7a90c'
+  - 'ff2101'
+  - 'fb7d51'
+  - '3b347e'
+  - 'adb561'
+  - 'bbc0c6'
+  - 'f851c8'
